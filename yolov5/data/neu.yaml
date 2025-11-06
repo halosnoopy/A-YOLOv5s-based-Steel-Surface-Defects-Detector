@@ -1,0 +1,6 @@
+
+train: ./neu/train/images
+val: ./neu/val/images
+
+nc: 6
+names: ["crazing", "inclusion", "patches", "pitted_surface", "rolled-in_scale", "scratches"]
