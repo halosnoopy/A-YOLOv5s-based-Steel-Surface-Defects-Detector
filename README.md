@@ -14,6 +14,7 @@ Traditional visual inspection is time-consuming and error-prone. By applying dee
 - Implement and fine-tune the YOLOv5s architecture for six defect categories.  
 - Evaluate model performance using precision, recall, and mean Average Precision (mAP).  
 - Build a graphical user interface (GUI) to simulate defect detection in images.  
+<img width="940" height="167" alt="image" src="https://github.com/user-attachments/assets/c56a1d7b-37ea-4437-8c5e-bf64b915590d" />
 
 ---
 
@@ -37,6 +38,7 @@ Reference: Song, K., & Yan, Y. (2013). *Applied Surface Science, 285*, 858–864
 ## YOLOv5s Model
 The YOLOv5s network was selected due to its balance between **speed and accuracy**.  
 It is the smallest version in the YOLOv5 family, optimized for lightweight, real-time applications.
+<img width="940" height="328" alt="image" src="https://github.com/user-attachments/assets/1a68b6a6-c4bf-4563-b869-393951db70c2" />
 
 **Architecture highlights:**
 - Input stage with mosaic data augmentation  
