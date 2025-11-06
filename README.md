@@ -31,7 +31,6 @@ Traditional visual inspection is time-consuming and error-prone. By applying dee
   - Scratches (Sc)  
 
 Each class includes **300 samples** of real industrial surface images.  
-Reference: Song, K., & Yan, Y. (2013). *Applied Surface Science, 285*, 858–864.
 
 ---
 
