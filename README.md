@@ -60,3 +60,6 @@ It is the smallest version in the YOLOv5 family, optimized for lightweight, real
 | `package.yaml` | Environment dependencies list (install using `conda install --file package.yaml`). |
 
 ---
+
+## Reference
+Khanam, R., & Hussain, M. (2024). *What is YOLOv5: A deep look into the internal features of the popular object detector.* arXiv preprint arXiv:2407.20892.
